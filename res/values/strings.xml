@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">维宝</string>
+    <string name="action_settings">Settings</string>
+    <string name="xunfei_appid">562c8bae</string>
+    <string name="info_notification">应用后台运行中&#8230;</string>
+    <string name="info_net">网络设置</string>
+    <string name="info_saving">数据保存中，请稍后&#8230;</string>
+    <string name="info_null">内容为空，不需处理&#8230;</string>
+    <string name="info_sendNull">发送数据为空&#8230;</string>
+    <string name="info_noFT23X">未发现串口设备&#8230;</string>
+    <string name="info_receive">【 接收显示区 】</string>
+    <string name="info_send">【 发送显示区 】</string>
+    <string name="info_receiveCount">接收:</string>
+    <string name="info_sendCount">发送:</string>
+    <string name="info_hexShow">Hex显示</string>
+    <string name="info_clearRec">清空接收</string>
+    <string name="info_clearSend">清空发送</string>
+    <string name="info_receiveHint">接收的数据显示区域</string>
+    <string name="info_sendHint">发送的数据显示区域</string>
+    <string name="info_sendHandle">手动发送</string>
+    <string name="info_saved">数据保存到&#8195;</string>
+    <string name="info_memory">发送存储记录</string>
+    <string name="info_action">&#8195;功&#8195;能&#8195;操&#8195;作&#8195;</string>
+    <string name="info_setting">&#8195;参&#8195;数&#8195;设&#8195;置&#8195;</string>
+    <string name="info_partner">&#8195;支&#8195;持&#8195;外&#8195;设&#8195;</string>
+    <string name="info_protect">&#8195;版权及免责声明&#8195;</string>
+    <string name="info_recSave">保存当前接收显示区内的数据</string>
+    <string name="info_recSaveQuikKey">快捷键 | 【长按】接收显示区</string>
+    <string name="info_sendHide">隐藏/显示发送区域</string>
+    <string name="info_sendHideQuikKey">快捷键 | 【双击】接收显示区</string>
+    <string name="info_screenFreedom">允许屏幕翻转</string>        
+    <string name="info_getSend">提取发送</string>
+    <string name="info_noRecord">无历史数据</string>
+    <string name="info_noMemo">无提示信息</string>
+    <string name="info_ft23xOk">初始化串口设备【完成】</string>
+    <string name="info_setDone">【 设置完成 】</string>
+    <string name="info_ft23xNo">【未发现】有效串口设备</string>
+    <string name="info_interval">自动发送间隔（ms）</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="err_noNet">是否设置连接网络？</string>
+    <string name="err_hexFormat">输入不符合Hex格式要求</string>
+    <string name="err_numberFormat">输入数据不符合约定值</string>
+    
+    <string name="isExit">&#8195;再按退出【串口助手】&#8195;</string>
+    <string name="isSave">&#8195;保存接收区显示的数据？</string>
+    <string name="isCancel">&#8195;<B>取&#8195;消</B>&#8195;</string>
+    <string name="isOk">&#8195;<B>确&#8195;定</B>&#8195;</string>
+    <string name="memo">备注</string>
+    <string name="save">保存更改</string>
+    <string name="clear">清除记录</string>
+    <string name="data">数据</string>
+    <string name="Null"></string>
+	<string name="zero">0</string>
+	<string name="baudRate">波特率</string>
+	<string name="stopBits">停止位</string>
+	<string name="dataBits">数据位</string>
+	<string name="parity">校验位</string>
+	<string name="flowControl">流控制</string>
+	
+	
+	<string name="txt_partner">【支持信息】\r\n支持版本：Android 4.1 及以上\r\n支持手机：具有OTG功能手机\r\n&#8195;&#8195;&#8195;&#8195;&#8195;如小米系列；华为 P6、P7；\r\n&#8195;&#8195;&#8195;&#8195;&#8195;Oppo N1；三星 S4；\r\n&#8195;&#8195;&#8195;&#8195;&#8195;三星 Note2、Note3 等\r\n支持厂家：东莞市茂肯电子有限公司\r\n&#8195;&#8195;&#8195;&#8195;&#8195;（力特 Z-TEK）\r\n支持型号：ZE613\r\n支持芯片：FT23x系列</string>	
+	<string name="txt_contact">【联系方式】\r\n移动电话：13804564479\r\n电子邮箱：dengge@126.com</string>	
+	<string name="txt_protect">一、本APP内容（包括原创及转载自互联网图片等资料）版权归作者所有，仅供大家学习与参考，勿使用于商业用途。如需作商业用途，请与原作者联系。未经作者同意，用作商业用途或匿名转载，作者有权利追究侵权者法律责任；\r\n二、著作权人发现本APP有侵害其合法权益的内容或作品，请及时联系我们，会第一时间给予处理；\r\n三、本APP文字及图片允许您复制、转载和传播，转载时请您务必注明来源；\r\n四、本APP非商业用途，您在使用或传播中出现任何问题、损失，本APP将不承担任何责任；\r\n五、本声明未涉及的问题参见国家有关法律法规。</string>	
+
+	
+	<string-array name="stopBits">
+        <item>1bit</item>
+        <item>2bit</item>
+    </string-array>	
+	<string-array name="dataBits">
+        <item>8bit</item>
+        <item>7bit</item>        
+    </string-array>	 
+	<string-array name="parity">
+        <item>none</item>
+        <item>odd</item>
+        <item>even</item>
+        <item>mark</item>
+        <item>space</item>
+    </string-array>	 
+	<string-array name="flowControl">
+        <item>none</item>
+        <item>flow control</item>
+    </string-array>	          
+    
+</resources>
